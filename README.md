@@ -14,12 +14,9 @@
   <a href="https://t.me/champagnepapiiiiiiiiii" target="_blank">
     <img src="https://img.shields.io/badge/telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey" />
+<a href="https://t.me/frontend_utopia" target="_blank">
+    <img src="https://img.shields.io/badge/telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" style="margin-bottom: 5px;" />
+</a>
 </div>
 
 ###
@@ -65,9 +62,10 @@
 
 ###
 
-<div align="left">
+<div align="center" style="background-color: black; padding: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Danial939&show_icons=true&count_private=true&hide_border=true" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danial939&hide_border=true&layout=compact" height="200" />
 </div>
+
 
 ###

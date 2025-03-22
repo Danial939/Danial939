@@ -17,6 +17,12 @@
 <a href="https://t.me/frontend_utopia" target="_blank">
     <img src="https://img.shields.io/badge/telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" style="margin-bottom: 5px;" />
 </a>
+<a href="mailto:bondarewdanil.123@icloud.com" target="_blank">
+    <img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/champagnemamyyyyyyyyy" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
+</a>
 </div>
 
 ###
@@ -63,8 +69,8 @@
 ###
 
 <div align="center" style="background-color: black; padding: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danial939&show_icons=true&count_private=true&hide_border=true" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danial939&hide_border=true&layout=compact" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Danial939&show_icons=true&count_private=true&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danial939&hide_border=true&layout=compact" height="150" />
 </div>
 
 

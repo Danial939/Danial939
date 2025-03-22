@@ -64,15 +64,10 @@
 
 <h3 align="left">🔥   Моя статистика :</h3>
 
-<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Danial939&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danial939&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Danial939&show_icons=true&count_private=true&hide_border=true" height=""150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danial939&hide_border=true&layout=compact"  height="150" />
+</div>
 
 ###

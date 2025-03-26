@@ -69,7 +69,6 @@
 ###
 
 <div align="center" style="background-color: black; padding: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danial939&show_icons=true&count_private=true&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danial939&hide_border=true&layout=compact" height="150" />
 </div>
 
